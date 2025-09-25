@@ -1,8 +1,8 @@
 ![vscoed](https://img.shields.io/badge/make-6D00CC?style=for-the-badge&logo=make&logoColor=white) 
-![vscoed](https://img.shields.io/badge/google_sheets-34A853?style=for-the-badge&logo=openai&logoColor=white) 
-![vscoed](https://img.shields.io/badge/google_d-4285F4?style=for-the-badge&logo=googledocs&logoColor=white) 
+![vscoed](https://img.shields.io/badge/open_ai-00B5AD?style=for-the-badge&logo=openai&logoColor=white) 
+![vscoed](https://img.shields.io/badge/manychat-000000?style=for-the-badge&logo=mezmo&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/microsoft_forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white) 
-![vscoed](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white) 
+![vscoed](https://img.shields.io/badge/Outlook-0058A0?style=for-the-badge&logo=ru&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/google_drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) 
 
 
