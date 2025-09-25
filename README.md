@@ -1,3 +1,11 @@
+![vscoed](https://img.shields.io/badge/make-6D00CC?style=for-the-badge&logo=make&logoColor=white) 
+![vscoed](https://img.shields.io/badge/google_sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
+![vscoed](https://img.shields.io/badge/google_d-4285F4?style=for-the-badge&logo=googledocs&logoColor=white) 
+![vscoed](https://img.shields.io/badge/microsoft_forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white) 
+![vscoed](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white) 
+![vscoed](https://img.shields.io/badge/google_drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) 
+
+
 # 🤖 Social Media FAQ & Lead Capture Bot
 
 An AI-powered FAQ bot that lives in social media channels. It answers common questions in real time, and when the user shows interest, it automatically shares a form. Once completed, the user receives a confirmation email while the business receives the lead neatly stored for follow-up.
