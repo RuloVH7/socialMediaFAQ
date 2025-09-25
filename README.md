@@ -3,6 +3,7 @@
 ![vscoed](https://img.shields.io/badge/open_ai-00B5AD?style=for-the-badge&logo=openai&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/manychat-000000?style=for-the-badge&logo=mezmo&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/microsoft_forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white) 
+![vscoed](https://img.shields.io/badge/microsoft_excel-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/Outlook-0058A0?style=for-the-badge&logo=ru&logoColor=white) 
 
 
@@ -45,8 +46,8 @@ An AI-powered FAQ bot that lives in social media channels. It answers common que
 - [ManyChat](https://manychat.com/) – Social media chat automation  
 - [OpenAI GPT](https://platform.openai.com/) – AI-powered FAQ answers  
 - [Power Automate](https://powerautomate.microsoft.com/) – Workflow orchestration  
-- **Email Service** (Outlook / Gmail) – Confirmation delivery  
-- **Excel Online / Google Sheets** – Lead storage  
+- **Email Service** (Outlook) – Confirmation delivery  
+- **Excel Online – Lead storage  
 
 ---
 
