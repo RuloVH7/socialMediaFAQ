@@ -3,7 +3,7 @@
 ![vscoed](https://img.shields.io/badge/manychat-000000?style=for-the-badge&logo=mezmo&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/microsoft_forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/Outlook-0058A0?style=for-the-badge&logo=ru&logoColor=white) 
-![vscoed](https://img.shields.io/badge/google_drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) 
+![vscoed](https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white) 
 
 
 # 🤖 Social Media FAQ & Lead Capture Bot
