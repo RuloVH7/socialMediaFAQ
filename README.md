@@ -1,5 +1,5 @@
 ![vscoed](https://img.shields.io/badge/make-6D00CC?style=for-the-badge&logo=make&logoColor=white) 
-![vscoed](https://img.shields.io/badge/google_sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) 
+![vscoed](https://img.shields.io/badge/google_sheets-34A853?style=for-the-badge&logo=openai&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/google_d-4285F4?style=for-the-badge&logo=googledocs&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/microsoft_forms-4285F4?style=for-the-badge&logo=googleforms&logoColor=white) 
 ![vscoed](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white) 
